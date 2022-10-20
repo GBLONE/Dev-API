@@ -22,5 +22,8 @@
  # Dev-API | "app_RESTful.py"
  <text>
    Projeto que possui exemplo de Flask-RESTful com Flask.<br>
-   
+   Nessa API vemos o uso do Flask-RESTful em "app_RESTful.py", explicando de forma reduzida, seria quase a mesma forma da REST-API de cima, mas com pequenas mudanças e 
+   trazendo para o modelo e API do Flask-RESTful.<br>
+   Lembrando que toda os testes foram feito no aplicativo "Postman", que é onde consigo mudar o método GET, PUT, POST, DELETE, etc... Para conduzir e fazer ele melhor 
+   o possível.
  <text/>
