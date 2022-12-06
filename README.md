@@ -1,4 +1,5 @@
 # Dev-API | "app.py"
+<div>
 <text>
   Projeto que possui exemplo de REST-API com Flask.<br>
   No arquivo chamando "app.py" a gente vê uma API que devolve o desenvolvedor pelo ID (0, 1 ou 2) utilizando o método GET, a gente também pode notar que ela também pode 
@@ -16,14 +17,18 @@
   Terceira parte é simples, aqui existe uns usuários e que usando a rota http://127.0.0.1:5000/dev/(id:usuario)/tarefa/ do flask vamos ver as tarefas do usuário quando 
   utilizamos o pelo método GET. E usando a mesma rota nós conseguimos pelo método PUT e DELETE, alterar as tarefas e deletar elas respectivamente.
   <text/><br><br>
-  
+<div/>
+
  ##
   
  # Dev-API | "app_RESTful.py"
- <text>
+ <div><text>
    Projeto que possui exemplo de Flask-RESTful com Flask.<br>
    Nessa API vemos o uso do Flask-RESTful em "app_RESTful.py", explicando de forma reduzida, seria quase a mesma forma da REST-API de cima, mas com pequenas mudanças e 
    trazendo para o modelo e API do Flask-RESTful.<br>
    Lembrando que toda os testes foram feito no aplicativo "Postman", que é onde consigo mudar o método GET, PUT, POST, DELETE, etc... Para conduzir e fazer ele melhor 
    o possível.
- <text/>
+ <text/><br>
+       <br><text>Visite meu LinkedIn:<text/>
+  <br><a href="https://www.linkedin.com/in/gabriel-oliveira-607682231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
